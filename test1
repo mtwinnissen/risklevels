@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+    <html lang="en-us">
+    <head>
+      <meta charset="utf-8">
+    </head>
+    <body><table><tr><th>symbol</th><th>name</th><th>universe</th><th>riskConfidence</th></tr><tr><td>AAVE</td><td>Aave</td><td>crypto</td><td>2</td></tr><tr><td>ADA</td><td>Cardano</td><td>crypto</td><td>6</td></tr><tr><td>ALGO</td><td>Algorand</td><td>crypto</td><td>3</td></tr><tr><td>ATOM</td><td>Cosmos Hub</td><td>crypto</td><td>2</td></tr><tr><td>AVAX</td><td>Avalanche</td><td>crypto</td><td>2</td></tr><tr><td>BNB</td><td>BNB</td><td>crypto</td><td>5</td></tr><tr><td>BTC</td><td>Bitcoin</td><td>crypto</td><td>9</td></tr><tr><td>DOGE</td><td>Dogecoin</td><td>crypto</td><td>7</td></tr><tr><td>DOT</td><td>Polkadot</td><td>crypto</td><td>2</td></tr><tr><td>DXY</td><td>U.S. Dollar Index</td><td>tradfi</td><td>0</td></tr><tr><td>ETH</td><td>Ethereum</td><td>crypto</td><td>7</td></tr><tr><td>GOLD</td><td>Gold</td><td>tradfi</td><td>0</td></tr><tr><td>LINK</td><td>Chainlink</td><td>crypto</td><td>5</td></tr><tr><td>LTC</td><td>Litecoin</td><td>crypto</td><td>7</td></tr><tr><td>MATIC</td><td>Polygon</td><td>crypto</td><td>2</td></tr><tr><td>MKR</td><td>Maker</td><td>crypto</td><td>4</td></tr><tr><td>SOL</td><td>Solana</td><td>crypto</td><td>3</td></tr><tr><td>SP500</td><td>S&P 500</td><td>tradfi</td><td>0</td></tr><tr><td>TOTAL</td><td>Crypto Total Market Cap</td><td>crypto</td><td>9</td></tr><tr><td>TOTAL6</td><td>Crypto Total Market Cap Excl. BTC, ETH, Stables</td><td>crypto</td><td>8</td></tr><tr><td>TRX</td><td>TRON</td><td>crypto</td><td>2</td></tr><tr><td>TSLA</td><td>Tesla</td><td>tradfi</td><td>0</td></tr><tr><td>VET</td><td>VeChain</td><td>crypto</td><td>2</td></tr><tr><td>XLM</td><td>Stellar</td><td>crypto</td><td>3</td></tr><tr><td>XMR</td><td>Monero</td><td>crypto</td><td>8</td></tr><tr><td>XRP</td><td>XRP</td><td>crypto</td><td>8</td></tr><tr><td>XTZ</td><td>Tezos</td><td>crypto</td><td>5</td></tr></table>
+    </body>
+    </html>
+
